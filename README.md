@@ -5,7 +5,7 @@
 <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GeorgiKirov04&layout=compact&langs_count=8&hide=java,r&theme=react "/>
 </div>
 
-- 🔭 I’m currently working on Outfity.
+- 🔭 I’m currently working on an AI bot doing trading instead of you.
 - 🌱 I’m currently learning Dart.
 - 👯 I’m looking to collaborate on my Email.
 - 💬 Ask me about C# and JavaScript.
